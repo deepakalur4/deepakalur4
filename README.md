@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/deepakalur2" target="blank"><img src="https://img.shields.io/twitter/follow/deepakalur2?logo=twitter&style=for-the-badge" alt="deepakalur2" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and NLP projects**
+- 🔭 I’m currently working on **Machine learning and NLP projects.**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Data science advancements.**
 
-- 👯 I’m looking to collaborate on **Data science stuff**
+- 👯 I’m looking to collaborate on **Data science roles.**
 
 - 👨‍💻 All of my projects are available at [https://deepakalur4.my.canva.site/data-science-porfolio](https://deepakalur4.my.canva.site/data-science-porfolio)
 
 - 📝 I regularly write articles on [https://deepakalur4.my.canva.site/data-science-porfolio](https://deepakalur4.my.canva.site/data-science-porfolio)
 
-- 💬 Ask me about **Data analytics || Machine learning || Deep learning || NLP || Generative AI**
+- 💬 Ask me about **Data analytics || Machine learning || Deep learning || NLP || Generative AI.**
 
 - 📫 How to reach me **deepakalur4@gmail.com**
 
